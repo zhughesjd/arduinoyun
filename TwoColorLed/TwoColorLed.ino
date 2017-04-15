@@ -1,5 +1,3 @@
-/* Laser transmitter module test project
-*/
 #include <Console.h>
 
 //Arduino test code:

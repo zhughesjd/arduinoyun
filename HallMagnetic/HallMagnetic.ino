@@ -1,7 +1,3 @@
-/* Hall magnetic field sensor test project
-   When magnetic field is detected by Hall Sensor Module,
-   the LED on the sensor module will turn on and LED of D9 pin will turn off
-*/
 int LedPin=10;
 int SensorPin=9;
 int inputVal;

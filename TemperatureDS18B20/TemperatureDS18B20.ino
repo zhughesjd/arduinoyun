@@ -1,5 +1,4 @@
-/* DS18S20 Temperature Sensor Module sample project
-*/
+
 #include <OneWire.h>
 #include <Console.h>
 int inPin=10; // define D10 as input pin connecting to DS18S20 S pin
